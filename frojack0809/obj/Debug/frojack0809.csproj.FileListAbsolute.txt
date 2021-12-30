@@ -1,0 +1,123 @@
+C:\Users\park\Desktop\frojack0809\frojack0809\bin\Debug\frojack0809.exe.config
+C:\Users\park\Desktop\frojack0809\frojack0809\bin\Debug\frojack0809.exe
+C:\Users\park\Desktop\frojack0809\frojack0809\bin\Debug\frojack0809.pdb
+C:\Users\park\Desktop\frojack0809\frojack0809\bin\Debug\CxFlatUI.dll
+C:\Users\park\Desktop\frojack0809\frojack0809\bin\Debug\SunnyUI.Common.dll
+C:\Users\park\Desktop\frojack0809\frojack0809\bin\Debug\SunnyUI.dll
+C:\Users\park\Desktop\frojack0809\frojack0809\obj\Debug\frojack0809.csproj.AssemblyReference.cache
+C:\Users\park\Desktop\frojack0809\frojack0809\obj\Debug\frojack0809.Form1.resources
+C:\Users\park\Desktop\frojack0809\frojack0809\obj\Debug\frojack0809.Properties.Resources.resources
+C:\Users\park\Desktop\frojack0809\frojack0809\obj\Debug\frojack0809.csproj.GenerateResource.cache
+C:\Users\park\Desktop\frojack0809\frojack0809\obj\Debug\frojack0809.csproj.CoreCompileInputs.cache
+C:\Users\park\Desktop\frojack0809\frojack0809\obj\Debug\frojack0809.csproj.CopyComplete
+C:\Users\park\Desktop\frojack0809\frojack0809\obj\Debug\frojack0809.exe
+C:\Users\park\Desktop\frojack0809\frojack0809\obj\Debug\frojack0809.pdb
+C:\Users\User\Desktop\frojack0809 (1)\frojack0809\bin\Debug\frojack0809.exe.config
+C:\Users\User\Desktop\frojack0809 (1)\frojack0809\bin\Debug\frojack0809.exe
+C:\Users\User\Desktop\frojack0809 (1)\frojack0809\bin\Debug\frojack0809.pdb
+C:\Users\User\Desktop\frojack0809 (1)\frojack0809\bin\Debug\CxFlatUI.dll
+C:\Users\User\Desktop\frojack0809 (1)\frojack0809\bin\Debug\SunnyUI.Common.dll
+C:\Users\User\Desktop\frojack0809 (1)\frojack0809\bin\Debug\SunnyUI.dll
+C:\Users\User\Desktop\frojack0809 (1)\frojack0809\obj\Debug\frojack0809.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\frojack0809 (1)\frojack0809\obj\Debug\frojack0809.Form1.resources
+C:\Users\User\Desktop\frojack0809 (1)\frojack0809\obj\Debug\frojack0809.Properties.Resources.resources
+C:\Users\User\Desktop\frojack0809 (1)\frojack0809\obj\Debug\frojack0809.UI.User.resources
+C:\Users\User\Desktop\frojack0809 (1)\frojack0809\obj\Debug\frojack0809.csproj.GenerateResource.cache
+C:\Users\User\Desktop\frojack0809 (1)\frojack0809\obj\Debug\frojack0809.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\frojack0809 (1)\frojack0809\obj\Debug\frojack0809.csproj.CopyComplete
+C:\Users\User\Desktop\frojack0809 (1)\frojack0809\obj\Debug\frojack0809.exe
+C:\Users\User\Desktop\frojack0809 (1)\frojack0809\obj\Debug\frojack0809.pdb
+C:\Users\User\Desktop\frojack0809 (1)\frojack0809\obj\Debug\frojack0809.UI.Sales.resources
+C:\Users\User\Desktop\frojack0809 (1)\frojack0809\obj\Debug\frojack0809.UI.HelpPP.resources
+C:\Users\User\Desktop\박인택\코드\frojack0809\bin\Debug\frojack0809.exe.config
+C:\Users\User\Desktop\박인택\코드\frojack0809\bin\Debug\frojack0809.exe
+C:\Users\User\Desktop\박인택\코드\frojack0809\bin\Debug\frojack0809.pdb
+C:\Users\User\Desktop\박인택\코드\frojack0809\bin\Debug\CxFlatUI.dll
+C:\Users\User\Desktop\박인택\코드\frojack0809\bin\Debug\SunnyUI.Common.dll
+C:\Users\User\Desktop\박인택\코드\frojack0809\bin\Debug\SunnyUI.dll
+C:\Users\User\Desktop\박인택\코드\frojack0809\obj\Debug\frojack0809.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\박인택\코드\frojack0809\obj\Debug\frojack0809.Login_Form.resources
+C:\Users\User\Desktop\박인택\코드\frojack0809\obj\Debug\frojack0809.UI.HelpPP.resources
+C:\Users\User\Desktop\박인택\코드\frojack0809\obj\Debug\frojack0809.Form1.resources
+C:\Users\User\Desktop\박인택\코드\frojack0809\obj\Debug\frojack0809.Properties.Resources.resources
+C:\Users\User\Desktop\박인택\코드\frojack0809\obj\Debug\frojack0809.UI.Sales.resources
+C:\Users\User\Desktop\박인택\코드\frojack0809\obj\Debug\frojack0809.UI.User.resources
+C:\Users\User\Desktop\박인택\코드\frojack0809\obj\Debug\frojack0809.csproj.GenerateResource.cache
+C:\Users\User\Desktop\박인택\코드\frojack0809\obj\Debug\frojack0809.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\박인택\코드\frojack0809\obj\Debug\frojack0809.csproj.CopyComplete
+C:\Users\User\Desktop\박인택\코드\frojack0809\obj\Debug\frojack0809.exe
+C:\Users\User\Desktop\박인택\코드\frojack0809\obj\Debug\frojack0809.pdb
+C:\Users\User\Desktop\C#_자료\박인택\코드\frojack0809\obj\Debug\frojack0809.Login_Form.resources
+C:\Users\User\Desktop\C#_자료\박인택\코드\frojack0809\obj\Debug\frojack0809.UI.HelpPP.resources
+C:\Users\User\Desktop\C#_자료\박인택\코드\frojack0809\obj\Debug\frojack0809.Form1.resources
+C:\Users\User\Desktop\C#_자료\박인택\코드\frojack0809\obj\Debug\frojack0809.Properties.Resources.resources
+C:\Users\User\Desktop\C#_자료\박인택\코드\frojack0809\obj\Debug\frojack0809.UI.Sales.resources
+C:\Users\User\Desktop\C#_자료\박인택\코드\frojack0809\obj\Debug\frojack0809.UI.User.resources
+C:\Users\User\Desktop\C#_자료\박인택\코드\frojack0809\obj\Debug\frojack0809.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C#_자료\박인택\코드\frojack0809\obj\Debug\frojack0809.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#_자료\박인택\코드\frojack0809\obj\Debug\frojack0809.exe
+C:\Users\User\Desktop\C#_자료\박인택\코드\frojack0809\obj\Debug\frojack0809.pdb
+C:\Users\User\Desktop\C#_자료\박인택\코드\frojack0809\bin\Debug\frojack0809.exe.config
+C:\Users\User\Desktop\C#_자료\박인택\코드\frojack0809\bin\Debug\frojack0809.exe
+C:\Users\User\Desktop\C#_자료\박인택\코드\frojack0809\bin\Debug\frojack0809.pdb
+C:\Users\User\Desktop\C#_자료\박인택\코드\frojack0809\bin\Debug\CxFlatUI.dll
+C:\Users\User\Desktop\C#_자료\박인택\코드\frojack0809\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\C#_자료\박인택\코드\frojack0809\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\User\Desktop\C#_자료\박인택\코드\frojack0809\bin\Debug\SunnyUI.Common.dll
+C:\Users\User\Desktop\C#_자료\박인택\코드\frojack0809\bin\Debug\SunnyUI.dll
+C:\Users\User\Desktop\C#_자료\박인택\코드\frojack0809\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\C#_자료\박인택\코드\frojack0809\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\C#_자료\박인택\코드\frojack0809\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\C#_자료\박인택\코드\frojack0809\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\C#_자료\박인택\코드\frojack0809\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\C#_자료\박인택\코드\frojack0809\bin\Debug\System.Text.Json.dll
+C:\Users\User\Desktop\C#_자료\박인택\코드\frojack0809\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\C#_자료\박인택\코드\frojack0809\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Desktop\C#_자료\박인택\코드\frojack0809\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\C#_자료\박인택\코드\frojack0809\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\C#_자료\박인택\코드\frojack0809\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\C#_자료\박인택\코드\frojack0809\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\C#_자료\박인택\코드\frojack0809\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\C#_자료\박인택\코드\frojack0809\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\Desktop\C#_자료\박인택\코드\frojack0809\bin\Debug\System.Text.Json.xml
+C:\Users\User\Desktop\C#_자료\박인택\코드\frojack0809\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\C#_자료\박인택\코드\frojack0809\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Desktop\C#_자료\박인택\코드\frojack0809\obj\Debug\frojack0809.csproj.CopyComplete
+C:\Users\User\Desktop\C#_자료\박인택\코드\frojack0809\obj\Debug\frojack0809.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\코드\frojack0809\bin\Debug\frojack0809.exe.config
+C:\Users\User\Desktop\코드\frojack0809\bin\Debug\frojack0809.exe
+C:\Users\User\Desktop\코드\frojack0809\bin\Debug\frojack0809.pdb
+C:\Users\User\Desktop\코드\frojack0809\bin\Debug\CxFlatUI.dll
+C:\Users\User\Desktop\코드\frojack0809\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\코드\frojack0809\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\User\Desktop\코드\frojack0809\bin\Debug\SunnyUI.Common.dll
+C:\Users\User\Desktop\코드\frojack0809\bin\Debug\SunnyUI.dll
+C:\Users\User\Desktop\코드\frojack0809\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\코드\frojack0809\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\코드\frojack0809\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\코드\frojack0809\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\코드\frojack0809\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\코드\frojack0809\bin\Debug\System.Text.Json.dll
+C:\Users\User\Desktop\코드\frojack0809\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\코드\frojack0809\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Desktop\코드\frojack0809\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\코드\frojack0809\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\코드\frojack0809\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\코드\frojack0809\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\코드\frojack0809\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\코드\frojack0809\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\Desktop\코드\frojack0809\bin\Debug\System.Text.Json.xml
+C:\Users\User\Desktop\코드\frojack0809\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\코드\frojack0809\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Desktop\코드\frojack0809\obj\Debug\frojack0809.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\코드\frojack0809\obj\Debug\frojack0809.Login_Form.resources
+C:\Users\User\Desktop\코드\frojack0809\obj\Debug\frojack0809.UI.HelpPP.resources
+C:\Users\User\Desktop\코드\frojack0809\obj\Debug\frojack0809.Form1.resources
+C:\Users\User\Desktop\코드\frojack0809\obj\Debug\frojack0809.Properties.Resources.resources
+C:\Users\User\Desktop\코드\frojack0809\obj\Debug\frojack0809.UI.Sales.resources
+C:\Users\User\Desktop\코드\frojack0809\obj\Debug\frojack0809.UI.User.resources
+C:\Users\User\Desktop\코드\frojack0809\obj\Debug\frojack0809.csproj.GenerateResource.cache
+C:\Users\User\Desktop\코드\frojack0809\obj\Debug\frojack0809.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\코드\frojack0809\obj\Debug\frojack0809.csproj.CopyComplete
+C:\Users\User\Desktop\코드\frojack0809\obj\Debug\frojack0809.exe
+C:\Users\User\Desktop\코드\frojack0809\obj\Debug\frojack0809.pdb
